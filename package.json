@@ -1,0 +1,29 @@
+{
+  "name": "streamsource-client",
+  "version": "1.0.0",
+  "description": "Node.js client for the Streamsource API (https://github.com/streamwall/streamsource)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streamwall/streamsource-client.git"
+  },
+  "keywords": [
+    "streamsource",
+    "api",
+    "client",
+    "stream",
+    "source"
+  ],
+  "author": "Ben Menesini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/streamwall/streamsource-client/issues"
+  },
+  "homepage": "https://github.com/streamwall/streamsource-client#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
